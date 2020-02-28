@@ -1,5 +1,14 @@
 # Geographic Data Science with PySAL and the pydata stack
 
+Video Tutorial: https://youtu.be/TY4QWnnd4jY
+Materials: http://darribas.org/gds_scipy16/
+Github repository: https://github.com/darribas/gds_scipy16
+A taster of PySAL 2.0: https://github.com/darribas/gds_ucm19
+Other tutorials: https://pysal.org/getting_started
+
+
+
+
 This two-part tutorial will first provide participants with a gentle
 introduction to Python for geospatial analysis, and an introduction to version
 `PySAL` 1.11 and the related eco-system of libraries to facilitate common tasks
